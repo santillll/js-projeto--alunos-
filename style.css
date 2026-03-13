@@ -16,7 +16,7 @@
   --second-bg-color: #C94C16;
   --text-color: #ffffff;
   --second-text-color: #FF4D00;
-  --card-bg-color: hsla(18, 80%, 44%, 0.5);
+  --card-bg-color: hsla(154, 97%, 47%, 0.5);
 
   --first-font: 'Lato', sans-serif;
   --second-font: 'Inter', sans-serif;
@@ -256,7 +256,7 @@ section {
   font-weight: 800;
   font-size: 7rem;
   line-height: 10rem;
-  color: var(--text-color);
+  color: #008000;
   letter-spacing: -2px;
   line-height: 0.8;
 }
@@ -265,7 +265,7 @@ section {
   font-weight: 300;
   font-size: 6rem;
   line-height: 0.8;
-  color: var(--text-color);
+  color: #b500ac;
   letter-spacing: -2px;
   padding-bottom: 1.5rem;
 }
@@ -283,7 +283,7 @@ section {
   font-weight: 700;
   font-size: 2.5rem;
   line-height: 4.2rem;
-  color: var(--second-text-color);
+  color: #00e000;
   letter-spacing: 1.5px;
   padding-bottom: 8rem;
 }
@@ -498,7 +498,7 @@ img.balls {
 
 .card:hover {
   cursor: pointer;
-  background-color: #FF4D00;
+  background-color: #ff4d00;
   transform: translateY(-10px);
 }
 
@@ -701,7 +701,7 @@ form textarea {
 
 .contact-form .submit {
   display: inline-block;
-  background: var(--second-bg-color);
+  background: #002eb8;
   color: white;
   width: 160px;
   font-weight: 500;
@@ -714,7 +714,7 @@ form textarea {
 
 .contact-form .submit:hover {
   background: var(--text-color);
-  color: var(--second-text-color);
+  color: #002eb8;
   cursor: pointer;
 }
 

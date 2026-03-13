@@ -97,7 +97,7 @@ function animateText() {
       // Alterna a cor do texto entre branco/preto e laranja
       currentColor =
         currentColor === (document.documentElement.classList.contains('light') ? 'black' : '#fff')
-          ? '#C94C16'
+          ? '#b500ac'
           : (document.documentElement.classList.contains('light') ? 'black' : '#fff');
 
       titleElement.style.color = currentColor;
