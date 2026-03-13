@@ -16,7 +16,7 @@
   --second-bg-color: #C94C16;
   --text-color: #ffffff;
   --second-text-color: #FF4D00;
-  --card-bg-color: hsla(154, 97%, 47%, 0.5);
+  --card-bg-color: hsla(154, 100%, 34%, 0.5);
 
   --first-font: 'Lato', sans-serif;
   --second-font: 'Inter', sans-serif;
@@ -50,7 +50,7 @@
   
   --text-color: #000000;
   --second-text-color: #FF4D00;
-  --card-bg-color: hsla(18, 80%, 44%, 1);
+  --card-bg-color: #b500ac;
 
   --highlight-color: rgba(0, 0, 0, 0.25);
   --switch-bg-url: url("./img/sun.svg");
@@ -498,7 +498,7 @@ img.balls {
 
 .card:hover {
   cursor: pointer;
-  background-color: #ff4d00;
+  background-color: #8a8787;
   transform: translateY(-10px);
 }
 
@@ -701,7 +701,7 @@ form textarea {
 
 .contact-form .submit {
   display: inline-block;
-  background: #002eb8;
+  background: #b500ac;
   color: white;
   width: 160px;
   font-weight: 500;
